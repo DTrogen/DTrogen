@@ -8,9 +8,9 @@ If you want to do the same, [@M0nica](https://github.com/m0nica) details the pro
 ## Who am I <img src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-07/who_am_i.jpeg?itok=r0dpnt0k" width="40" height="40" alt="source: GIPHY"/>
 
 
-I'm Dany, part time software engineer :computer:, part time hobbyist artist :art:, I am above all a professionnal procrastinator 🦥!
+I'm Dany, sometimes software engineer :computer:, sometimes hobbyist artist :art: but above all, I'm full-time professionnal procrastinator 🦥!
 
 For this reason, for the rest of my presentation, I'll...
 <p align="center">
-<a href="#"><img src="https://i.pinimg.com/564x/2a/e1/2e/2ae12e325d01fe36b22720e4752c009f.jpg" width="250" height="250" alt="source: PinterestY"/></a>
+<a href="#"><img src="https://i.pinimg.com/564x/2a/e1/2e/2ae12e325d01fe36b22720e4752c009f.jpg" width="250" height="250" alt="source: Pinterest"/></a>
 </p>
